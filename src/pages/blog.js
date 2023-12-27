@@ -7,7 +7,6 @@ const Blog = () => {
         Posts
       </div>
       <div id="blog-posts">
-      
       </div>
     </div>
   )
